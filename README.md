@@ -5,7 +5,7 @@
 ### 1. Clone the repository
 ```sh
 git clone <your-repo-url>
-cd chat
+cd chat-websocket
 ```
 
 ### 2. Create and configure environment variables
